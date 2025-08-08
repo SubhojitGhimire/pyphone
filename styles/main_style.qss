@@ -1,0 +1,76 @@
+*{
+    font-family: "Roboto";
+}
+
+#PhoneBody {
+    background-color: #121212;
+}
+
+#HomeScreen {
+    border-image: url(:/assets/wallpapers/default.png) 0 0 0 0 stretch stretch;
+}
+
+#HomeClockWidget {
+}
+
+#HomeClockTime {
+    color: white;
+    font-size: 80px;
+    font-weight: 300; /* Lighter font weight */
+}
+
+#HomeClockDate {
+    color: #AAA;
+    font-size: 18px;
+    padding-left: 5px;
+}
+
+#HomeDock {
+    background-color: rgba(60, 60, 60, 0.4);
+    border-radius: 25px;
+    margin: 10px;
+}
+
+#HomeDock QPushButton {
+    background-color: transparent;
+    border: none;
+}
+
+#StyledCalendar {
+    background-color: #1e1e1e;
+    color: white;
+    alternate-background-color: #2a2a2a;
+}
+
+#StyledCalendar QToolButton {
+    color: white;
+    background-color: #333;
+    border: 1px solid #444;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin: 5px;
+}
+#StyledCalendar QToolButton:hover {
+    background-color: #454545;
+}
+
+#StyledCalendar QHeaderView {
+    background-color: #1e1e1e;
+}
+
+#StyledCalendar QTableView {
+    background-color: #252525;
+    gridline-color: #333;
+    selection-background-color: #0078D7;
+    selection-color: white;
+}
+
+#StyledCalendar QTableView::item:disabled {
+    color: #666;
+}
+
+#StyledCalendar QAbstractItemView {
+    background-color: #333;
+    color: white;
+    selection-background-color: #0078D7;
+}

@@ -1,0 +1,69 @@
+<!-- Must run this after making changes to this file: pyside6-rcc resources.qrc -o resources_rc.py -->
+
+<!DOCTYPE RCC>
+<RCC version="1.0">
+<qresource>
+    <file>assets/wallpapers/default.png</file>
+    <file>assets/icons/wifi.png</file>
+    <file>assets/icons/battery.png</file>
+    <file>assets/icons/home.png</file>
+    <file>assets/icons/apps.png</file>
+    <file>assets/icons/back.png</file>
+
+    <file>assets/icons/gallery.png</file>
+    <file>assets/icons/browser.png</file>
+    <file>assets/icons/calculator.png</file>
+
+    <file>apps/browser/icon.png</file>
+    <file>apps/calculator/icon.png</file>
+    <file>apps/chess/icon.png</file>
+    <file>apps/clock/icon.png</file>
+    <file>apps/gallery/icon.png</file>
+    <file>apps/paperplanePilot/icon.png</file>
+
+    <file>assets/paperplanePilot/background.png</file>
+    <file>assets/paperplanePilot/airplane.png</file>
+    <file>assets/paperplanePilot/obstacle_top.png</file>
+    <file>assets/paperplanePilot/obstacle_bottom.png</file>
+
+    <file>assets/chess/theme_1/blackBishop.png</file>
+    <file>assets/chess/theme_1/blackKing.png</file>
+    <file>assets/chess/theme_1/blackKnight.png</file>
+    <file>assets/chess/theme_1/blackPawn.png</file>
+    <file>assets/chess/theme_1/blackQueen.png</file>
+    <file>assets/chess/theme_1/blackRook.png</file>
+    <file>assets/chess/theme_1/whiteBishop.png</file>
+    <file>assets/chess/theme_1/whiteKing.png</file>
+    <file>assets/chess/theme_1/whiteKnight.png</file>
+    <file>assets/chess/theme_1/whitePawn.png</file>
+    <file>assets/chess/theme_1/whiteQueen.png</file>
+    <file>assets/chess/theme_1/whiteRook.png</file>
+
+    <file>assets/chess/theme_2/blackBishop.png</file>
+    <file>assets/chess/theme_2/blackKing.png</file>
+    <file>assets/chess/theme_2/blackKnight.png</file>
+    <file>assets/chess/theme_2/blackPawn.png</file>
+    <file>assets/chess/theme_2/blackQueen.png</file>
+    <file>assets/chess/theme_2/blackRook.png</file>
+    <file>assets/chess/theme_2/whiteBishop.png</file>
+    <file>assets/chess/theme_2/whiteKing.png</file>
+    <file>assets/chess/theme_2/whiteKnight.png</file>
+    <file>assets/chess/theme_2/whitePawn.png</file>
+    <file>assets/chess/theme_2/whiteQueen.png</file>
+    <file>assets/chess/theme_2/whiteRook.png</file>
+
+    <file>assets/chess/theme_3/blackBishop.png</file>
+    <file>assets/chess/theme_3/blackKing.png</file>
+    <file>assets/chess/theme_3/blackKnight.png</file>
+    <file>assets/chess/theme_3/blackPawn.png</file>
+    <file>assets/chess/theme_3/blackQueen.png</file>
+    <file>assets/chess/theme_3/blackRook.png</file>
+    <file>assets/chess/theme_3/whiteBishop.png</file>
+    <file>assets/chess/theme_3/whiteKing.png</file>
+    <file>assets/chess/theme_3/whiteKnight.png</file>
+    <file>assets/chess/theme_3/whitePawn.png</file>
+    <file>assets/chess/theme_3/whiteQueen.png</file>
+    <file>assets/chess/theme_3/whiteRook.png</file>
+    
+</qresource>
+</RCC>
