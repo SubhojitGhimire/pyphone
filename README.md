@@ -1,11 +1,13 @@
-# PiPhone: A Mobile OS Simulator in Python
+# PyPhone: A Mobile OS Simulator in Python
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 Welcome to PyPhone, a fully-featured mobile operating system simulator built from the ground up using Python and the PySide6 framework. This project serves as a comprehensive portfolio piece demonstrating advanced GUI development, modular application architecture, and the integration of various programming concepts into a single, cohesive, and visually appealing application.
 
-<p align="center"><img src="https://github.com/user-attachments/assets/6ef932a5-ee57-4385-a12b-aa291e13cb27"/></p>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/c0228828-e18e-40c9-a379-9291bd9e48c7" />
+</p>
 
 ---
 
@@ -72,9 +74,9 @@ python main.py
 
 ## Screenshots
 
-![pyphone_123](https://github.com/user-attachments/assets/4c1fb4b4-c73d-4e11-a86d-27679d0b7eab)
-
-![pyphone_456](https://github.com/user-attachments/assets/1fa81714-ec87-4d2c-b846-9cb1ad7e05a8)
+<img src="https://github.com/user-attachments/assets/72008175-30c9-407d-a35f-2871154bf0b1" />
+<br>
+<img src="https://github.com/user-attachments/assets/c2a3e6ab-cce5-4723-8faa-fc33b39e2047" />
 
 <h1></h1>
 
